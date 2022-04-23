@@ -1,6 +1,6 @@
-# Requirements
-## Introduction
+# Smart Water Level Management System
 
+## Introduction
 
 
 Water level monitoring is the project which will be helpful in preventing water from wasting due to overflow and water shortage in the tank. This will help in industries where everything is automated and where water is used as a main element for production and manufacturing.
@@ -46,17 +46,14 @@ This project is controled by atmega328.
 | ------ | ------ | ------ |
 | 1 |If low level switch open before uplevel the water won't fill in tank| IMPLEMENTED |
 
-# DESIGN
-## BEHAVIOURAL
-## HIGH LEVEL
-![highlevel drawio](https://user-images.githubusercontent.com/94223235/144302633-e58d5546-b874-40e9-b42f-d83cb8024adc.png)
-## LOW LEVEL
-![lowlevel drawio](https://user-images.githubusercontent.com/94223235/144302721-9871c283-f613-4420-9326-1c9fded741e3.png)
-## STRUCTURAL
-## HIGH LEVEL
-![highlevel1 drawio](https://user-images.githubusercontent.com/94223235/144302851-6986fc90-4e3f-492c-8a3c-6978fd780ca0.png)
-## LOW LEVEL
-![lowlevel1 drawio](https://user-images.githubusercontent.com/94223235/144303003-932ab45f-60c4-45a1-9a86-2cb763672669.png)
+# Architecture
+## Block Diagram
+![](https://github.com/ShrinathDawari/M2_SmartWaterLevelManagementSystem/blob/e2819ec572de1da7b00ecc10b915f625d80a52d7/2_Architecture/Block%20Diagram/Block_Diagram.jpg)
+## Flow chart
+![](https://github.com/ShrinathDawari/M2_SmartWaterLevelManagementSystem/blob/e2819ec572de1da7b00ecc10b915f625d80a52d7/2_Architecture/Data%20Flow%20diagram/Flow_Diagram.png)
+
+
+
 
 ## Test Plan
 # High Level Test Plan:
@@ -72,6 +69,7 @@ This project is controled by atmega328.
 |2|	Level of water varies from 0L - 2500L|	Nil|	varies from 0L - 2500L|	varies from 0L-2500L|	Implemented|
 
 
-
+## Simulation Diagram
+![](https://github.com/ShrinathDawari/M2_SmartWaterLevelManagementSystem/blob/3b4c2c8a585758986633c21030e86b9aa2549459/6_ImagesAndVideos/Simulation_Diagram.png)
 
 
