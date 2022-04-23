@@ -1,3 +1,2 @@
-![EMBEDDED DTA FLOW DIAGRAM](https://user-images.githubusercontent.com/94217503/144352291-e339b6d1-8ee0-408b-9049-b6698152d10a.png)
-
-
+## Flow chart
+![](https://github.com/ShrinathDawari/M2_SmartWaterLevelManagementSystem/blob/e2819ec572de1da7b00ecc10b915f625d80a52d7/2_Architecture/Data%20Flow%20diagram/Flow_Diagram.png)
